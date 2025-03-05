@@ -15,6 +15,8 @@ Compilation of Excel projects I have worked on
 ### Dashboard 2: Category Behaviour
 ![](market_volume_trend2.png)
 
+## KPIs Tracker
+![](GF_Tracker_IELTS.png)
 
 ## 
 ![](positions_status.png)
